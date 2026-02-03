@@ -5,18 +5,18 @@ This project demonstrates core Python concepts, GUI development, and file handli
 
 Features
 -----------
-Add new books to the library
-View all available books
-Search books by Book ID
-Update existing book details
-Delete books from records
-Persistent storage using CSV file
-Simple and user-friendly GUI
+Add new books to the library, 
+View all available books, 
+Search books by Book ID, 
+Update existing book details, 
+Delete books from records, 
+Persistent storage using CSV file, 
+Simple and user-friendly GUI, 
 
 Tech Stack
 ------------
-Language: Python
-GUI Framework: Tkinter
-Data Storage: CSV (File Handling)
-Tools: VS Code / PyCharm
+Language: Python, 
+GUI Framework: Tkinter, 
+Data Storage: CSV (File Handling), 
+Tools: VS Code / PyCharm,
 
